@@ -10,7 +10,8 @@ operations like :
 7.exit  
 
 
-these are the operations I have implemented. you can go there the code. 
+these are the operations I have implemented. you can go there the code.
+you can even change the details  of already saved contact in linked list.or you can delete the contact.
 you can even have file operations with saving a text file called "contact.txt" in D drive if you have or you can change the path of the file.
 
 
