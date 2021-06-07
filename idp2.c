@@ -127,7 +127,7 @@ void deleteContact()
 	}
 	if(flag == 1)
 	{
-		/*if(pos == 1 && len > 1)
+		if(pos == 1 && len > 1)
 		{
 			del = head;
 			head = head->nxt;
@@ -173,7 +173,7 @@ void deleteContact()
 				free(p);
 				printf("DATA DELELTED.\n");
 			}
-		}*/
+		}
 		if(pos == len)
 		{
 			p=head;
