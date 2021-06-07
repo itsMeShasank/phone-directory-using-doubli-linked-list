@@ -30,7 +30,7 @@ int checkName(char name[]){
 		if(val==0){
 			printf("\n**Similar Name Exixts***\n");
 			return 0;}
-		ptr = ptr->nxt;
+		ptr = ptr->nxt; 
 	}
 	return 1;
 }
